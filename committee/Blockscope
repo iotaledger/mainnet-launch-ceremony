@@ -1,0 +1,16 @@
+---
+info:
+  name: Blockscope.net
+  account-address: "0x9e4d13f6da16901b63d4fda4d39ebc4a7e93a02756a7d076efb2cf315c1d4f26"
+  authority-key: mI/SgQmWot7w5p8xNN2TtYZk1drRQt5QVN7ACTBH9bMgwJ3tf137Fk0xTRU7uTegAeYqNovG7/TxXmNpugEk7nImWOb4RObXFG8yYt/ZanOpAvKP6FeyK9Mb3g0AkV6t
+  protocol-key: vGDZQ4i7/ylo7gSGfu0vrxDI3hW57YJyOhwRnkZvu4g=
+  network-key: jwepEMVBOKXjb+jSxUau2SydRhjfpehJ5H8T4xzI9jI=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/iota.blockscope.net/tcp/8080/http
+  p2p-address: /dns/iota.blockscope.net/udp/8084
+  primary-address: /dns/iota.blockscope.net/udp/8081
+  description: "Top performance and Top rewards. Professional Web3 validation and development. Running validators on Solana, Sui, Near, ..."
+  image-url: "https://www.blockscope.net/blockscope_thumbnail_360_360.png"
+  project-url: "https://www.blockscope.net"
+proof_of_possession: o4r2wtq1wdfewWeIMdl2oKXFr7cuZ0A/tyVthK6E/8mhBg5NDc4BeQfy7JXASgHM
