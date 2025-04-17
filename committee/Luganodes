@@ -1,0 +1,16 @@
+---
+info:
+  name: Luganodes
+  account-address: "0xdcbd057ee15f3c08fc666d69abccc69ac24151627ff8f508f110ee21600b4c03"
+  authority-key: td7DZu4uui9CvHOqa6DhAq9L8ftUCnfoOl+tgjGSvM/e/jp3W1MFytLPzuIHblZOGIEaQttVMRJJHptx0jRNMgXu5xX6TIuVVnx3Lyb4ulPgZov8wBoqnFrTcQOpY/kZ
+  protocol-key: mOJA5vPGsk/B9m9rDzFh0VXrFuAVHOf31hXVqk6/VY4=
+  network-key: QoQ54utq0Z2k5P5upiwKnlyeLuyZ6lvEyARV51Pn6NI=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/iota-mn-vn-1.lgns.net/tcp/8080/http
+  p2p-address: /dns/iota-mn-vn-1.lgns.net/udp/8084
+  primary-address: /dns/iota-mn-vn-1.lgns.net/udp/8081
+  description: Swiss based leading institutional-grade staking provider
+  image-url: "https://static.lgns.xyz/logo.jpg"
+  project-url: "https://luganodes.com"
+proof_of_possession: s42uY1rvWnKdhQl0fhoka/3DAtIJFPoOK/oa2VS38ayH86EGacS0FN07XA+BnB0e
