@@ -1,0 +1,16 @@
+---
+info:
+  name: Tangle Ecosystem Association
+  account-address: "0x8e2e13c2ecfda356f07d008885b7bb82befb4d602245c3bff98ad59863162dd8"
+  authority-key: lfJX3LT/mH4KPJSLpJEakW4/rh2rOK9AzIosoLhZVSoNhYarF1Ff4LWwtOPDeqd1GOVQSQ1vU7oY9gzzw83UUFF88x2F1rgb8VOMXMfldYncKyI4DOOwOY+IymSPHQ97
+  protocol-key: Ms4+eVBZnRIJyZSO8ryDsJm1rCPgV6j36vOnF//bC2E=
+  network-key: AK3oLDAZQDK6Bs3aXkYV2m56jYi8zGk7LefzuRxqxLc=
+  gas-price: 1000
+  commission-rate: 200
+  network-address: /dns/validator-1.r.mainnet.iota.cafe/tcp/8080/http
+  p2p-address: /dns/validator-1.r.mainnet.iota.cafe/udp/8084
+  primary-address: /dns/validator-1.r.mainnet.iota.cafe/udp/8081
+  description: "TEA, the Tangle Ecosystem Association, is a Swiss-based non-profit association that allocates grants and funding to ecosystem projects, alliances, partners, third-party integrations, and builders."
+  image-url: "https://files.iota.org/media/validators-logo/tea.png"
+  project-url: "https://tangle-association.ch"
+proof_of_possession: iGZCj53v1Nz9tC7F0vKfG81xUNhy5Pw14F4GO10ckVxXjWnTkN/z5rsRf5JkyWCy
