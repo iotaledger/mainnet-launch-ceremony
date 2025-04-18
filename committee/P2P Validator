@@ -1,0 +1,16 @@
+---
+info:
+  name: P2P Validator
+  account-address: "0xb6e5336b44f9c7b2cf29852d201478aaaac47ad6e3984de705c20adbbb99846c"
+  authority-key: tJyZfhE5kREmXXOsQQNFdrXyxFL+s2Qi3zl2E1BGEOVpR2+tctkN8xA603WdtrCAEfPuN0XIAarXw9Lrwb6u6eONDZXIS18JEiW2faTmVtiEZnSiCEhxe4ABRNu2qoRu
+  protocol-key: invJyseTWI64q7PVAUgN94Qk+DNugDgR9pICQwkSnBQ=
+  network-key: aq+qGNL+3cgYQ51DLnXgf4jzGYH2MDcNRUhZl/oLBu4=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/val1.mainnet.iota.monochain.p2p.org/tcp/8080/http
+  p2p-address: /dns/val1.mainnet.iota.monochain.p2p.org/udp/8084
+  primary-address: /dns/val1.mainnet.iota.monochain.p2p.org/udp/8081
+  description: "Highly secure, reliable staking provided by experienced validation team"
+  image-url: "https://cdn.p2p.org/p2p360_logo.png"
+  project-url: "https://www.p2p.org"
+proof_of_possession: gOvkzL68XEQ+hVATB7uDb/0Rico3f9rQdg0zRwNvon/2RYKyUvvZ8YR9rR7UUpgG
