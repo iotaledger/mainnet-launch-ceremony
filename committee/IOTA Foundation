@@ -6,7 +6,7 @@ info:
   protocol-key: RWNavFuyP5Yj8tQTXl45BSimW/wCfzYnLMzW/1PRv48=
   network-key: vUvvB5zFFGBKqiEotc5tx97IJLqMkj77pXt56r83hUY=
   gas-price: 1000
-  commission-rate: 200
+  commission-rate: 1000
   network-address: /dns/validator-0.r.mainnet.iota.cafe/tcp/8080/http
   p2p-address: /dns/validator-0.r.mainnet.iota.cafe/udp/8084
   primary-address: /dns/validator-0.r.mainnet.iota.cafe/udp/8081
