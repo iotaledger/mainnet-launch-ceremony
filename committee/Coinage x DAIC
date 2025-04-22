@@ -6,7 +6,7 @@ info:
   protocol-key: X3P/Kp2pqAa7l3892kNCjyLTlF5N1UFiA1iQJ3YQwrw=
   network-key: H697vKCSwwoZw4xGwUL174SJmgPC1of9I9LCchStwcg=
   gas-price: 1000
-  commission-rate: 500
+  commission-rate: 1000
   network-address: /dns/iota-mainnet.dzdaic.com/tcp/8080/http
   p2p-address: /dns/iota-mainnet.dzdaic.com/udp/8084
   primary-address: /dns/iota-mainnet.dzdaic.com/udp/8081
