@@ -6,7 +6,7 @@ info:
   protocol-key: 5uuR+/7NijGuhqZBrUE6Pu/NxvZ809PQ4KD2lfv+5BU=
   network-key: tA0Pg7+A+dmCDvkwDkNSaTdE3KoOvsdhqxpdptlJfk0=
   gas-price: 1000
-  commission-rate: 200
+  commission-rate: 1000
   network-address: /dns/iota.stakin-nodes.com/tcp/8080/http
   p2p-address: /dns/iota.stakin-nodes.com/udp/8084
   primary-address: /dns/iota.stakin-nodes.com/udp/8081
