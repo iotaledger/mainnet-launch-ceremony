@@ -6,7 +6,7 @@ info:
   protocol-key: 5DZKwu2XPXzS5WBuj0GUc1LWARR/U/DWtF1qs1yjyBw=
   network-key: sQ49wG0Sy0bTCBWt73UhOaQTU637z7i72YmSEU2GIB0=
   gas-price: 1000
-  commission-rate: 700
+  commission-rate: 1000
   network-address: /dns/iota-mainnet-validator.staketab.com/tcp/8080/http
   p2p-address: /dns/iota-mainnet-validator.staketab.com/udp/8084
   primary-address: /dns/iota-mainnet-validator.staketab.com/udp/8081
