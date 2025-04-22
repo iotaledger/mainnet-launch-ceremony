@@ -6,7 +6,7 @@ info:
   protocol-key: mOJA5vPGsk/B9m9rDzFh0VXrFuAVHOf31hXVqk6/VY4=
   network-key: QoQ54utq0Z2k5P5upiwKnlyeLuyZ6lvEyARV51Pn6NI=
   gas-price: 1000
-  commission-rate: 200
+  commission-rate: 1000
   network-address: /dns/iota-mn-vn-1.lgns.net/tcp/8080/http
   p2p-address: /dns/iota-mn-vn-1.lgns.net/udp/8084
   primary-address: /dns/iota-mn-vn-1.lgns.net/udp/8081
