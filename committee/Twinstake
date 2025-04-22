@@ -6,7 +6,7 @@ info:
   protocol-key: wuy2s0iNmywoKaQDsu3GD43L+M3bE3ukcROq8hpZlug=
   network-key: 3whz2e1dwnPn8FIgZRfLQkyI5wMtcpERz5zNL+KIqAU=
   gas-price: 1000
-  commission-rate: 200
+  commission-rate: 1000
   network-address: /dns/iota-mainnet-01.twinstake.net/tcp/8080/http
   p2p-address: /dns/iota-mainnet-01.twinstake.net/udp/8084
   primary-address: /dns/iota-mainnet-01.twinstake.net/udp/8081
