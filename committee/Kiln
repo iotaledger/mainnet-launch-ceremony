@@ -6,7 +6,7 @@ info:
   protocol-key: 4vDM3KrtSqi3eGodn+yWEIe5i/PTGWq4sDdUfq7Kft8=
   network-key: nZ/tRufXF0AMzZGY0zh1QqR4PujKuS7vfDqNmLuM/FM=
   gas-price: 1000
-  commission-rate: 500
+  commission-rate: 1000
   network-address: /dns/iota.mainnet.kiln.fi/tcp/8080/http
   p2p-address: /dns/iota.mainnet.kiln.fi/udp/8084
   primary-address: /dns/iota.mainnet.kiln.fi/udp/8081
