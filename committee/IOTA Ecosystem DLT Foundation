@@ -6,7 +6,7 @@ info:
   protocol-key: tQO6dLsp8Jz7ZzaFjffR7/RlU9euGjAA2pVybU4yc6I=
   network-key: riGQM6fR4jHhLGgifOSRRAajX66LJt9md7+R/9D5W74=
   gas-price: 1000
-  commission-rate: 200
+  commission-rate: 1000
   network-address: /dns/validator-2.r.mainnet.iota.cafe/tcp/8080/http
   p2p-address: /dns/validator-2.r.mainnet.iota.cafe/udp/8084
   primary-address: /dns/validator-2.r.mainnet.iota.cafe/udp/8081
