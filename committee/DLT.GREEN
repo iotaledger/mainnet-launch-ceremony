@@ -10,7 +10,7 @@ info:
   network-address: /dns/validator.iota.mainnet.dlt.green/tcp/8080/http
   p2p-address: /dns/validator.iota.mainnet.dlt.green/udp/8084
   primary-address: /dns/validator.iota.mainnet.dlt.green/udp/8081
-  description: "DLT.GREEN is a market-independent company that emerged from the IOTA community and is dedicated to the development, deployment and operation of modern service provider models - especially for decentralized IT infrastructures."
+  description: "DLT.GREEN is the 1st tokenized company in Austria - emerged from the IOTA community - dedicated to the development, deployment and operation of modern service provider models - especially for decentralized IT infrastructures."
   image-url: "https://dlt.green/images/logos/DLT.GREEN.gif"
   project-url: "https://dlt.green"
 proof_of_possession: gw4zZcp8iPtRmXjWbnzJGHqp3/8cnuHMwT7uaID1bUZg84DUsBrX36ZbUEVAqHlr
