@@ -1,0 +1,16 @@
+---
+info:
+  name: Nansen
+  account-address: "0xa69363ce32b9b1e5b9c7480232ca6799068daa7c22c3d8cc53632246c354b9ff"
+  authority-key: hhTzcuJ0oEm+i3IQsoLp3tIODqhN69i6CcF2BiM6D/zzrNz7WTpYs1UFCLG1hp01AP314/jW/NoZ/esH6LvVwFDWu3LlL78rpUMnrob+jxzUpFszfGGRG1HVBthRsthH
+  protocol-key: mlAC5S1B2MngnAUL/xdSCFFy4Pkg/nl1Tz59wSo1gDY=
+  network-key: cgaeXKN4Rg/Z6ffKCoRudauC5PHwrq13kpPG620EeR8=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/iota-mainnet-validator.nansen.ai/tcp/8080/http
+  p2p-address: /dns/iota-mainnet-validator.nansen.ai/udp/8084
+  primary-address: /dns/iota-mainnet-validator.nansen.ai/udp/8081
+  description: "Nansen is a leading on-chain analytics platform founded in 2020, and is now one of the most trusted names in crypto, serving traders and institutions. Disclaimer: delegating comes with slashing risks"
+  image-url: "https://raw.githubusercontent.com/nansen-ai/staking-brand-assets/refs/heads/main/nansen_logo.png"
+  project-url: "https://nansen.ai"
+proof_of_possession: iWqAfqA1pnrZybpC9onttc1hyTy7kFUgdgu3Dod2TqxiCpaLfxXXIpATuwohTKdt
