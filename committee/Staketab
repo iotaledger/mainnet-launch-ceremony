@@ -1,0 +1,16 @@
+---
+info:
+  name: Staketab
+  account-address: "0x7d307e5537bf0ebd7417f0aa2b09562e5be2a3b1bc0df39ecba8df606c6002b9"
+  authority-key: rjhqEn0rkImOgC2Jf2oGzbVbhs6Tr+nhxE1xMG2g0BsoSMJBG3cjskfUPCJqt6njASv3ErGQJYdAifQtUGvkxwZaljVPon9I5i+7MOjsv7YsN7cgrDhRr0THGeslzbMl
+  protocol-key: 5DZKwu2XPXzS5WBuj0GUc1LWARR/U/DWtF1qs1yjyBw=
+  network-key: sQ49wG0Sy0bTCBWt73UhOaQTU637z7i72YmSEU2GIB0=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/iota-mainnet-validator.staketab.com/tcp/8080/http
+  p2p-address: /dns/iota-mainnet-validator.staketab.com/udp/8084
+  primary-address: /dns/iota-mainnet-validator.staketab.com/udp/8081
+  description: "Professional staking provider offering infrastructure solutions for the Web3 ecosystem. Our experience in developing Web3 services since 2017 enables us to create best-in-class, data-rich products for each customer."
+  image-url: "https://brand-staketab.s3.eu-north-1.amazonaws.com/staketab/twitter.png"
+  project-url: "https://staketab.com/"
+proof_of_possession: hVLrwVWs7YY0wbOJPZqdxkAMQ7ZV/OMDe+07MCGylloaJQKoIcGZjnB+8APJ4awe
