@@ -1,0 +1,16 @@
+---
+info:
+  name: "DLT.GREEN"
+  account-address: "0x2762540744dfaeda69885db1f8e85c8c02e471ce41914aea9a85b3e6d63996a5"
+  authority-key: kyBbPYwIiDZem27GyrOHr5yD4ewWrbbtZmVbAUzoecQT3DoHe0anS3ayLpsPje+MB7ws8y/iInfcQxAighAAs6wi6tt2h5JZAStxEbi+P50haPjL5e1wUqnyOjfj111+
+  protocol-key: RQvzCvU6mAwedbb211L9H5/UEJHvYlpgQPkNa7pLmKs=
+  network-key: nv1grWgBqjvgMaWyJfUAItNhSV7FLV4j14ak5LNXnjU=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/validator.iota.mainnet.dlt.green/tcp/8080/http
+  p2p-address: /dns/validator.iota.mainnet.dlt.green/udp/8084
+  primary-address: /dns/validator.iota.mainnet.dlt.green/udp/8081
+  description: "DLT.GREEN is the 1st tokenized company in Austria - emerged from the IOTA community - dedicated to the development, deployment and operation of modern service provider models - especially for decentralized IT infrastructures."
+  image-url: "https://dlt.green/images/logos/DLT.GREEN.gif"
+  project-url: "https://dlt.green"
+proof_of_possession: gw4zZcp8iPtRmXjWbnzJGHqp3/8cnuHMwT7uaID1bUZg84DUsBrX36ZbUEVAqHlr
