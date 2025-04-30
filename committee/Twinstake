@@ -1,0 +1,16 @@
+---
+info:
+  name: Twinstake
+  account-address: "0xab59b719a59e43143185f6f3870d2a42fa47563683b25ceea9fc2e848eb36c6e"
+  authority-key: p4ibPh4xT0tnRbrNacvKisM27KMAaCaa/175dca7JcvhkWmfb1CJOhA7ZPDku1BTCySAbhE+wGWhjChyEL6m6peUia4zrjEAVG8WwCdh1rdGZ2hRu1uqdohqM1eaTDt0
+  protocol-key: wuy2s0iNmywoKaQDsu3GD43L+M3bE3ukcROq8hpZlug=
+  network-key: 3whz2e1dwnPn8FIgZRfLQkyI5wMtcpERz5zNL+KIqAU=
+  gas-price: 1000
+  commission-rate: 1000
+  network-address: /dns/iota-mainnet-01.twinstake.net/tcp/8080/http
+  p2p-address: /dns/iota-mainnet-01.twinstake.net/udp/8084
+  primary-address: /dns/iota-mainnet-01.twinstake.net/udp/8081
+  description: Twinstake is an institutional-grade non-custodial staking provider
+  image-url: "https://s3.amazonaws.com/keybase_processed_uploads/cd5ed2719db24ffa391fc092e3a1e105_360_360.jpg"
+  project-url: "https://twinstake.com"
+proof_of_possession: qMzFCQli5feE8flr+yXVFIc2V+zcvfNAGT5wr/ZpKhQuDs5ay4q7SqGSxvOSZN0f
