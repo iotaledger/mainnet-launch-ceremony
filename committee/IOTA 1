@@ -1,6 +1,6 @@
 ---
 info:
-  name: IOTA Foundation
+  name: IOTA 1
   account-address: "0x864c651958094732a1227134cf7cab7587f05a399398804552553fbc01dba4e7"
   authority-key: icZ9GiDCDwB/WNoDeIw6jOM1UM+ddxNOkLCLLjcjd+WY+37wJVKvOwXBOYJmTh3EBW4nhqU7Nf/MPElfBfkfkPoGZeKOUvpGodfSnNrrtguIzvfFBi8T/hp10qTT5h0B
   protocol-key: RWNavFuyP5Yj8tQTXl45BSimW/wCfzYnLMzW/1PRv48=
@@ -10,7 +10,7 @@ info:
   network-address: /dns/validator-0.r.mainnet.iota.cafe/tcp/8080/http
   p2p-address: /dns/validator-0.r.mainnet.iota.cafe/udp/8084
   primary-address: /dns/validator-0.r.mainnet.iota.cafe/udp/8081
-  description: The IOTA Foundation is a global non-profit foundation that develops next-generation decentralized technologies for a new digital economy in a connected world.
+  description: ""
   image-url: "https://files.iota.org/media/validators-logo/iotafoundation.png"
   project-url: "https://iota.org"
 proof_of_possession: pGnxGyn3Dn8osl5CHiDNYcKFtQykap9m3RPjrjnVK4VaHFIAherRQXe2TJEJNXDE
