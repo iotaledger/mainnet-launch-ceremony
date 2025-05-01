@@ -1,6 +1,6 @@
 ---
 info:
-  name: IOTA Ecosystem DLT Foundation
+  name: IOTA 3
   account-address: "0xde58c0e225e01f890f05b0d2c19ae15b7c337faae539545bfd3a5d8676d62a87"
   authority-key: rmF6UAvZn5PFJfMXnzXiU8IRZuiZWmAmKDISee5olY0uqsE/f2+e44irXcJCI6wuGEYHsH6X2zEcTT3Y5I7akpR5DfmO5RRZ3ADAYzjMJOPX2xCpa3b0UaEt25hHuKy8
   protocol-key: tQO6dLsp8Jz7ZzaFjffR7/RlU9euGjAA2pVybU4yc6I=
@@ -10,7 +10,7 @@ info:
   network-address: /dns/validator-2.r.mainnet.iota.cafe/tcp/8080/http
   p2p-address: /dns/validator-2.r.mainnet.iota.cafe/udp/8084
   primary-address: /dns/validator-2.r.mainnet.iota.cafe/udp/8081
-  description: "The IOTA Ecosystem DLT Foundation is a distributed ledger technology foundation registered in Abu Dhabi Global Market, UAE, Its aim is to help drive the adoption of IOTA and grow its ecosystem."
-  image-url: "https://files.iota.org/media/validators-logo/iotadlt.png"
-  project-url: "https://iotadlt.foundation"
+  description: ""
+  image-url: "https://files.iota.org/media/validators-logo/iotafoundation.png"
+  project-url: "https://iota.org"
 proof_of_possession: mADVqwJjqEtoI8SP4XPh1hfgCBiI9Q7H8UQzyCriBYBRL2n24Wfa+PFHjMygq2Jt
