@@ -13,7 +13,7 @@ RESET="\033[0m"
 BASE_URL="https://dbfiles.mainnet.iota.cafe"
 
 FILES=(
-    "latest-full_snapshot_[MILESTONE_PLACEHOLDER].bin"
+    "latest-full_snapshot_17011901.bin"
     "migration.blob"
     "stardust_object_snapshot.bin"
     "genesis.blob"
