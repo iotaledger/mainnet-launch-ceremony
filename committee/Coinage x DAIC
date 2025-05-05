@@ -10,7 +10,7 @@ info:
   network-address: /dns/iota-mainnet.dzdaic.com/tcp/8080/http
   p2p-address: /dns/iota-mainnet.dzdaic.com/udp/8084
   primary-address: /dns/iota-mainnet.dzdaic.com/udp/8081
-  description: "The official validator node from Coinage (Coinage.Media) run by DAIC"
+  description: The official validator node from Coinage (Coinage.Media) run by DAIC
   image-url: "https://raw.githubusercontent.com/DAICers/coinage_x_daic/refs/heads/main/files/images/DAIC-CNG-Ape_360_moniker.png"
   project-url: "https://daic.capital/"
 proof_of_possession: mFGMsF+7Efxwf6zB//oCvTXXrLYt0ADsksdpyOLMlVqxxceXiwGfs5CGgz6fdN51
